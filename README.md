@@ -16,9 +16,9 @@ The React Form Component is a dynamic and interactive form built with React and 
 
 ## Installation 🛠️
 
-1. Clone the repository: `git clone https://github.com/your/repository.git`
+1. Clone the repository: `git clone [https://github.com/CarmineMattia/React-Form.git]`
 2. Install dependencies: `npm install`
-3. Start the development server: `npm start`
+3. Start the development server: `npm start` \ `npm run dev` 
 
 ## Usage 🧑‍💻
 
