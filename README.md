@@ -2,6 +2,10 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
+## Live Demo 🌐
+
+Check out the live demo of the React Form Component [here](https://react-multist3p-form.netlify.app/). Fill out the form and experience its interactive features!
+
 ## Overview 🌟
 
 The React Form Component is a dynamic and interactive form built with React and TypeScript. It's like having a friendly assistant to collect user information without the hassle! 💁‍♀️💼
